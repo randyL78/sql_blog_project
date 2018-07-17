@@ -1,2 +1,5 @@
 # Dependency files
 node_modules/
+
+# Mac and IDE files
+.DS_Store
